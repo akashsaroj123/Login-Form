@@ -1,2 +1,3 @@
 # Login-Form
-This is a Login Form
+This is College Based (Semester) Project. 
+The Database-Integrated User Login System is a web application designed to se-curely manage user authentication by connecting a front-end interface with a backend server and a database. It enables users to register with unique credentials, which are securely stored in the database using password hashing techniques for enhanced security. The system vali-dates user inputs during both registration and login to ensure data integrity and provides clear feedback in case of errors, such as incorrect credentials or validation failures. By leveraging modern technologies like HTML, CSS, JavaScript for the front-end, with php for the backend, and MySQL for database management, this project delivers a ro-bust and scalable solution for user authentication. Ideal for integration into applications requiring secure login functionality, the system ensures a seamless and user-friendly experience.
